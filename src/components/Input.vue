@@ -63,7 +63,7 @@ button {
   top: -20px;
   margin: auto;
   padding: 15px 20px;
-  color: #fff;
+  color: #beadad;
   text-transform: uppercase;
   cursor: pointer;
   background: #1a032d;
